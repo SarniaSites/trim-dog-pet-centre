@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 110" role="img" aria-label="Trim Dog Pet Centre">
+  <!-- Redrawn from the 232px Facebook profile logo: plum bone outline with TRIM DOG / PET CENTRE lettering -->
+  <defs><symbol id="b" viewBox="0 0 300 110"><rect x="34" y="28" width="232" height="54" rx="4"/><circle cx="34" cy="32" r="26"/><circle cx="34" cy="78" r="26"/><circle cx="266" cy="32" r="26"/><circle cx="266" cy="78" r="26"/></symbol></defs>
+  <use href="#b" fill="#79243C" stroke="#79243C" stroke-width="9"/>
+  <use href="#b" fill="#FFFCFA"/>
+  <text x="150" y="58" text-anchor="middle" font-family="'Albert Sans', 'Arial Black', Arial, sans-serif" font-weight="900" font-size="30" fill="#79243C" letter-spacing=".5">TRIM DOG</text>
+  <text x="150" y="80" text-anchor="middle" font-family="'Albert Sans', Arial, sans-serif" font-weight="800" font-size="17" fill="#79243C" letter-spacing="1.5">PET CENTRE</text>
+</svg>

@@ -1,8 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 110" role="img" aria-label="Trim Dog Pet Centre">
-  <!-- Redrawn from the 232px Facebook profile logo: plum bone outline with TRIM DOG / PET CENTRE lettering -->
-  <defs><symbol id="b" viewBox="0 0 300 110"><rect x="34" y="28" width="232" height="54" rx="4"/><circle cx="34" cy="32" r="26"/><circle cx="34" cy="78" r="26"/><circle cx="266" cy="32" r="26"/><circle cx="266" cy="78" r="26"/></symbol></defs>
-  <use href="#b" fill="#79243C" stroke="#79243C" stroke-width="9"/>
-  <use href="#b" fill="#FFFCFA"/>
-  <text x="150" y="58" text-anchor="middle" font-family="'Albert Sans', 'Arial Black', Arial, sans-serif" font-weight="900" font-size="30" fill="#79243C" letter-spacing=".5">TRIM DOG</text>
-  <text x="150" y="80" text-anchor="middle" font-family="'Albert Sans', Arial, sans-serif" font-weight="800" font-size="17" fill="#79243C" letter-spacing="1.5">PET CENTRE</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" width="600" height="300">
+  <title>Trim Dog Pet Centre</title>
+  <g fill="none" stroke="#79243C" stroke-width="9" stroke-linejoin="round">
+    <circle cx="33" cy="33" r="27"/><circle cx="33" cy="83" r="27"/><circle cx="267" cy="33" r="27"/><circle cx="267" cy="83" r="27"/><rect x="34" y="24" width="232" height="68"/>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="33" cy="33" r="27"/><circle cx="33" cy="83" r="27"/><circle cx="267" cy="33" r="27"/><circle cx="267" cy="83" r="27"/><rect x="34" y="24" width="232" height="68"/>
+  </g>
+  <g fill="#79243C" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="150" y="62" font-size="38" letter-spacing="1">TRIM DOG</text>
+    <text x="150" y="86" font-size="21" letter-spacing="1.5">PET CENTRE</text>
+  </g>
+  <text x="150" y="138" fill="#1D6A6F" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-style="italic" font-size="21" text-anchor="middle">“Keeping your Pets Happy”</text>
 </svg>

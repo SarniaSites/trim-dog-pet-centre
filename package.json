@@ -2,12 +2,15 @@
   "name": "trim-dog-pet-centre",
   "version": "1.0.0",
   "private": true,
-  "description": "Website for Trim Dog Pet Centre, Vale, Guernsey",
+  "description": "Trim Dog Pet Centre website draft",
   "scripts": {
     "build": "tailwindcss -i ./src/input.css -o ./assets/css/styles.css --minify",
     "watch": "tailwindcss -i ./src/input.css -o ./assets/css/styles.css --watch"
   },
   "devDependencies": {
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^3.4.17",
+    "@fontsource/alfa-slab-one": "^5.1.0",
+    "@fontsource-variable/onest": "^5.1.0",
+    "@fontsource/kalam": "^5.1.0"
   }
 }
